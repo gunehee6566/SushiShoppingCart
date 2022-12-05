@@ -1,0 +1,38 @@
+.mainpage {
+    position: relative;
+    text-align: center;
+
+    img {
+        height: 40vw;
+        width: 100vw;
+        object-fit: cover;
+        opacity: 0.7;
+    }
+
+    .homeTitle {
+        font-size: 7vw;
+        font-weight: 700;
+        text-shadow: 2px 4px 4px white;
+    }
+
+    .textBlock {
+        position: absolute;
+        color: black;
+        padding: 20px;
+        top: 40%;
+        left: 30%;
+        color: white;
+    }
+
+    .orderBtn {
+        background-color: #41c45b;
+        border: none;
+        box-shadow: 2px;
+        size: 10vw;
+
+        &:hover {
+            background-color: green;
+        }
+    }
+
+}

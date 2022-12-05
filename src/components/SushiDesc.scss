@@ -1,0 +1,24 @@
+.thumnail {
+    position: relative;
+    display: inline-block;
+
+    img {
+        height: 43vw;
+        width: 60vw;
+        display: block;
+        object-fit: cover;
+    }
+
+    .caption {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, 10%);
+        text-align: center;
+        color: white;
+        font-size: 1.5rem;
+        font-weight: bold;
+        border-style: outset;
+
+    }
+}

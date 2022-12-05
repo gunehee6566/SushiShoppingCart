@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Salmon Nigiri",
+        "price": 2.75,
+        "imgUrl": "/imgs/salmonsushi.jpg",
+        "desc": "Fresh, raw salmon served over a small bed of pressed rice.",
+        "descImg": "/imgs/salDescPic.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Tuna Nigiri",
+        "price": 2.75,
+        "imgUrl": "/imgs/tunasushi.jpg",
+        "desc": "Fresh, raw tuna served over a small bed of pressed rice.",
+        "descImg": "/imgs/tunaDescPic.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Hamachi Nigiri",
+        "price": 4.40,
+        "imgUrl": "/imgs/hamachisushi.jpg",
+        "desc": "Fresh, raw yellotail served over a small bed of pressed rice.",
+        "descImg": "/imgs/hamachiDescPic.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ebi Nigiri",
+        "price": 2.75,
+        "imgUrl": "/imgs/ebisushi.jpg",
+        "desc": "Fresh, raw squid served over a small bed of pressed rice.",
+        "descImg": "/imgs/ebiDescPic.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Tamago Nigiri",
+        "price": 2.50,
+        "imgUrl": "/imgs/tamagosushi.jpg",
+        "desc": "Homemade Stir-Egg served over a small bed of pressed rice",
+        "descImg": "/imgs/tamagoDescPic.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Unagi Nigiri",
+        "price": 3.50,
+        "imgUrl": "/imgs/unagisushi.jpg",
+        "desc": "Bbq eel served over a small bed of pressed rice",
+        "descImg": "/imgs/unagiDescPic.jpg"
+    }
+]
